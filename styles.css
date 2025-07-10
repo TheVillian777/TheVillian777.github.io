@@ -101,6 +101,15 @@ nav {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     align-items: center;
     text-align: center;
+    padding: 20px;
+    margin: 10px;
+}
+
+#contactSection form {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 /* Footer Styles */
